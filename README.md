@@ -3,7 +3,7 @@
 A command-line interface (CLI) diagnostic tool built in Python and containerized with Docker. Designed for Technical Support workflows and Systems Administration, this utility automates basic troubleshooting steps—validating local disk capacity, testing domain DNS resolution, and executing ICMP network availability checks—before generating a clean Markdown report ready for engineering ticketing systems.
 
 ## Professional Context & Value Proposition
-Drawing from my background in **Seller Partner Support and GO AI Operations**, I know that minimizing time-to-resolution (TTR) is critical when technical infrastructure issues arise. Instead of running manual, repetitive commands during an incident, **NetPulse-Triage** automates the baseline system checks. This project bridges customer support insight with technical automation, delivering a standardized diagnostic output that prevents human error during escalation.
+Drawing from my background in **Seller Partner Support and Fraud investigations**, I know that minimizing time-to-resolution (TTR) is critical when technical infrastructure issues arise. Instead of running manual, repetitive commands during an incident, **NetPulse-Triage** automates the baseline system checks. This project bridges customer support insight with technical automation, delivering a standardized diagnostic output that prevents human error during escalation.
 
 ## Tech Stack & Key Features
 - **Language:** Python 3.11 (Native Subprocesses, Socket Programming, System Auditing).
